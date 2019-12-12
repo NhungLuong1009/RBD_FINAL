@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDB03", "RDB03\RDB03.csproj", "{9A5DBCDC-4211-45D7-BD03-56802B4C3A5E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5A8B68BD-7EC7-4A65-B20C-51035DBB1898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A5DBCDC-4211-45D7-BD03-56802B4C3A5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A5DBCDC-4211-45D7-BD03-56802B4C3A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A5DBCDC-4211-45D7-BD03-56802B4C3A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A5DBCDC-4211-45D7-BD03-56802B4C3A5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EE452FF-67A7-400E-9DF5-26AB20F0C55A}
+	EndGlobalSection
+EndGlobal
